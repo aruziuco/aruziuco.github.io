@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aruziuco.github.io/Aht/sitemap_index.txt
+Sitemap: https://aruziuco.github.io/BZT/sitemap_index.txt
+Sitemap: https://aruziuco.github.io/iAo/sitemap_index.txt
+Sitemap: https://aruziuco.github.io/opJ/sitemap_index.txt
